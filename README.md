@@ -12,13 +12,13 @@ pip install uvicorn[standard]
 
 ## Usage
 
-for questions 1-3
+for questions 1-4.1
 
 ```bash
 python filename.py
 ```
 
-for question4
+for question 4.2
 
 ```bash
 uvicorn Test4_2:app --reload
